@@ -12,6 +12,7 @@
 
 - Examining customer behavior and preferences.
 
+
 # 📂 Files Included
 
 - fast_food.pbix - A Power BI report containing interactive dashboards and visualizations.
@@ -19,6 +20,9 @@
 - Data_Cleaning.ipynb - A Jupyter Notebook that includes data cleaning, preprocessing, and exploratory data analysis.
 
 # 🛠️ Tools & Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
 
 - Power BI: For creating dynamic and interactive data visualizations.
 
@@ -70,21 +74,32 @@
 
 - Enhanced Customer Segmentation: Using clustering techniques to better understand consumer behavior.
 
-# 📜 License
+# Power BI : Fast Food Stock Dashboard
 
-- This project is licensed under the MIT License, allowing for open-source contributions and modifications.
+  ---
 
-# 🤝 How to Contribute
+![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/1.png?raw=true)  
+*Above: Power BI Dashboard showcasing front page and theme.*
 
-- Contributions are welcome! If you'd like to improve the project, follow these steps:
+---
 
-- Fork the repository.
+---
 
-- Create a new branch (feature-new-improvement).
+![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/2.png?raw=true)  
+*Above: Power BI Dashboard showcasing Second page and theme.*
 
--Commit your changes.
+---
 
-- Open a pull request.
+---
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/3.png?raw=true)  
+*Above: Power BI Dashboard showcasing Third page and theme.*
+
+---
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/4.png?raw=true)  
+*Above: Power BI Dashboard showcasing fourth page and theme.*
+
 
 # 📬 Contact
 
