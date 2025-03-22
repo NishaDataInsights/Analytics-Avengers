@@ -88,4 +88,5 @@
 
 # 📬 Contact
 
-- For any inquiries, feel free to open an issue on GitHub.
+- For any inquiries, feel free to open an issue on GitHub and [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nisha-rana-185189216/)
+
